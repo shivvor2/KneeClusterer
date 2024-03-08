@@ -11,6 +11,7 @@ We also plan on supporting more:
 - cluster scoring metrics
 - clusterers
 - elbow finding algorithms,
+
 Custom once can be used as well.
 
 ## Demo
